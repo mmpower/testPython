@@ -1,4 +1,4 @@
 testPython
 ==========
 
-my python learning code
+my python testing code
