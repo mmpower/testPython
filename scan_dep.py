@@ -3,7 +3,7 @@
 import os
 import yaml
 import json
-from multi_lang_api_extractor import scan_repo, produced, consumed, constants
+from api_detect import scan_repo, produced, consumed, constants
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
